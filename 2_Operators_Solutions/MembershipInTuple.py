@@ -1,0 +1,5 @@
+tpl = (10, 20, 30)
+print(10 in tpl)
+print(40 in tpl)
+print(10 not in tpl)
+print(40 not in tpl)
